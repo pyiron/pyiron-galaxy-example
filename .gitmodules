@@ -4,3 +4,6 @@
 [submodule "docker-jupyter-notebook"]
 	path = docker-jupyter-notebook
 	url = https://github.com/bgruening/docker-jupyter-notebook
+[submodule "galaxy"]
+	path = galaxy
+	url = https://github.com/usegalaxy-eu/galaxy.git
