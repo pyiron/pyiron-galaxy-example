@@ -1,9 +1,6 @@
 [submodule "temporary-tools"]
 	path = temporary-tools
 	url = https://github.com/usegalaxy-eu/temporary-tools
-[submodule "galaxy"]
-	path = galaxy
-	url = https://github.com/bgruening/galaxy
 [submodule "docker-jupyter-notebook"]
 	path = docker-jupyter-notebook
 	url = https://github.com/bgruening/docker-jupyter-notebook
